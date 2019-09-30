@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Vũ Công Ngọc",
+        "phone": "0369938594",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Vũ Công Kiều",
+        "phone": "0369965234",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Nguyễn Công Phượng",
+        "phone": "0308765476",
+        "permission": 1
+    },
+    {
+        "id": 4,
+        "name": "Vũ Văn Thanh",
+        "phone": "0363245476",
+        "permission": 1
+    },
+    {
+        "id": 5,
+        "name": "Đoàn Văn Hậu",
+        "phone": "0369964436",
+        "permission": 2
+    }
+]

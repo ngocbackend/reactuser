@@ -31,3 +31,9 @@
     transform: rotate(360deg);
   }
 }
+input.btn.btn-success.luu {
+  margin-right: 8px;
+}
+.btn.btn-warning.btn-sm.sua {
+  margin-right: 5px;
+}
